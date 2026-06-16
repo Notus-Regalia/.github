@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://www.notusregalia.tech/icon-512.png" alt="Notus Regalia" width="104" height="104" />
 
-  <h1>Notus Regalia</h1>
-
-  <p>At the Core of Critical Operations</p>
+  <h1>Notus Regalia — At the Core of Critical Operations</h1>
 
   <p><sub><i>Beyond Perception. &nbsp;Beyond Form. &nbsp;Beyond Fate.</i></sub></p>
 
@@ -19,11 +17,22 @@
 
 ## About
 
-Notus Regalia is a technology company that builds operational systems and the
-ventures that run on them. Founded in 2021 and headquartered in the Philippines,
-it operates as a founder-operator platform: a shared engineering backbone of APIs,
-data pipelines, and security infrastructure, reused across the companies it builds,
-backs, and incubates.
+Notus Regalia is a technology holding and venture-building company headquartered in
+the Philippines. Rather than operating a single product, it develops and oversees
+multiple ventures through one centralized operating framework — a shared engineering
+backbone of APIs, data pipelines, and security infrastructure reused across every
+company it builds, backs, and incubates. Its work centers on connected information
+systems: the backend architecture and data ecosystems that turn complex, real-world
+data into systems organizations can operate with command and precision.
+
+The company runs as a founder-operator platform, governing its ventures with
+institutional discipline and long-term ownership — systems-first thinking, capital
+efficiency, and a preference for repeatable operating systems and shared
+infrastructure over isolated project execution. Its mandate is deliberately
+cross-sector, spanning government and civic operations, defense, healthcare,
+enterprise, and energy, with effort directed toward opportunities of asymmetric
+impact. Founded in 2025, Notus Regalia is currently operating in stealth —
+concentrating on development and validation ahead of public exposure.
 
 ## Sectors
 
